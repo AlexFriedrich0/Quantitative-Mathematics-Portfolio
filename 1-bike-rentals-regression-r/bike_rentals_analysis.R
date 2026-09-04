@@ -1,7 +1,6 @@
 # Title: Predictive Modelling of Washington D.C. Daily Bike Rentals
 # Author: Alexander Friedrich
-# Description: Parsimonious multiple linear regression model predicting bike 
-#              rental demand using stepwise selection and ANOVA validation.
+#
 
 library(ggplot2)
 library(gridExtra)
