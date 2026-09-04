@@ -40,7 +40,7 @@ This portfolio displays the practical applications of abstract mathematical theo
   * **Brief Analysis on Failure**: Examined cases in which standard methods fail, looking at why Newton's method oscillates endlessly or when an initial guess is too far from the root to guarantee convergence.
   * **Linear Algebra Solver**: Built an $Ax = b$ solver using Gaussian elimination with scaled partial pivoting and backward substitution. Used a permutation vector to track row ordering. Additionally, utilised vectorised row operations using `numpy` and structural checks to identify singular matrices under machine precision limits.
 
-### Numerical Calculus| Grade: 85%
+### Numerical Calculus | Grade: 85%
 
 * **Objective**: Created a computational toolkit in Python for numerical differentiation and integration, applying these techniques to simulate and solve practical questions.
 * **Methodology**:
