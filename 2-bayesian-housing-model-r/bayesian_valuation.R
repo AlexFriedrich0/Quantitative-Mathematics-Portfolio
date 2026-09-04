@@ -1,7 +1,5 @@
 # Title: Bayesian Predictive Property Valuation
 # Author: Alexander Friedrich
-# Description: Bayesian linear regression model predicting property valuations
-#              using conjugate Normal-Inverse-Gamma priors and OLS comparisons.
 
 library(ggplot2)
 library(gridExtra)
