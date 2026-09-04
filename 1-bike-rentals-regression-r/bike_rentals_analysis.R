@@ -1,6 +1,6 @@
 # Title: Predictive Modelling of Washington D.C. Daily Bike Rentals
 # Author: Alexander Friedrich
-#
+
 
 library(ggplot2)
 library(gridExtra)
